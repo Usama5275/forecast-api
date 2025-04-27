@@ -1,0 +1,1 @@
+web: gunicorn forecast_api:app
